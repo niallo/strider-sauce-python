@@ -1,0 +1,9 @@
+{
+    "name":"nop",
+    "version":"0.0.0",
+    "scripts": {
+        "test": "exit 0",
+        "sauce": "python sauce.py",
+        "start": "python app.py"
+    }
+}
